@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nazariy</h1>
+<h3 align="center">A passionate data enthusiast</h3>
 
-<!--
-**data-ninjia/data-ninjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- 🐍 Python (ETL, API integration, Pandas)
+- 🛢️ SQL (PostgreSQL, BigQuery, MySQL)
+- ☁️ Cloud: AWS (S3, Lambda), GCP (BigQuery, Cloud Functions)
+- 🌀 Apache Airflow
+- 🔥 Apache Spark
+- 🐳 Docker & Docker Compose
+- ⚡ Kafka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me:
+- 💡 I design and build robust data pipelines (batch and streaming)
+- 🧪 I enjoy automating workflows and solving data-related problems
+- 📚 I'm constantly learning — exploring new tools and building mini-projects
+- 🤝 Open to collaboration on open-source and data engineering initiatives
+
+---
+
+### 📫 Let's connect:
+- LinkedIn: []
+- Telegram: []
+- Email: []
+
+---
+
